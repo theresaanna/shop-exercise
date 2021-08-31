@@ -1,3 +1,11 @@
+# Notes from Theresa!
+- I didn't realize the Readme had the instructions until I finished, so I was working off memory! Apologies if I missed any features. 
+- Thank you SO MUCH for taking the time to check this out. 
+- Please feel free to open issues with questions.
+- If you're unfamiliar with React hooks, know that the array that useEffect() takes tells React to re-render when any of the values change. 
+- There's more I would do, but I didn't want to take forever to do it and have an unfair advantage in time. 
+- Thank you again!
+
 # React: HackerShop Checkout
 
 ## Environment 
